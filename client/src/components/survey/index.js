@@ -1,3 +1,3 @@
-import General from './General'
+import Demographic from './Demographic'
 
-export default { General }
+export default Demographic 

@@ -1,0 +1,43 @@
+
+/* Layout */
+.main-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.feed-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-paper {
+  box-sizing: border-box;
+  padding: 50px;
+  width: 90%;
+  max-width: 800px;
+}
+
+.login-paper {
+  box-sizing: border-box;
+  margin: 40px;
+  padding: 50px;
+  width: 90%;
+  max-width: 400px;
+}
+
+.survey-paper {
+  box-sizing: border-box;
+  padding: 50px;
+  width: 90%;
+  max-width: 800px;
+}
+
+/* Forms */
+.form-control {
+  width: 100%
+}

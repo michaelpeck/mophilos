@@ -1,4 +1,4 @@
-const Post = require('../models/post-model')
+const Post = require('../models/Post');
 
 createPost = (req, res) => {
     const body = req.body
